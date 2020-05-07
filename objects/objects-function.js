@@ -13,7 +13,7 @@ let getSummary =function(book){
     //return template
     return{
         summary:`The author is ${book.author}. The page count is ${book.title} `,
-        pageCountSummary:` The page count is ${book.pageCount} `
+        pageCountSummary:` The page count is ${book.pageCount} ` 
     }
 
     }
